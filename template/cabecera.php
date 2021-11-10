@@ -42,7 +42,7 @@
             <a class="nav-link" href="animes.php">Nuevos</a>
         </li>
 
-        <input type="search" name="Buscar Anime..." id="busqueda" placeholder="Buscar">
+        
 
     </ul>
 
